@@ -132,12 +132,6 @@ Permitir que treinadores gerenciem seus alunos, acompanhem resultados, centraliz
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/rd_armani_consultoria">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
----
-
 ---
 
 > **"Da ideia ao produto: construindo soluções que unem tecnologia e negócios."**
