@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Diogo Moreira Banner"/>
-</p>
-
 <h1 align="center">Olá, eu sou Diogo Moreira 👋</h1>
 
 <p align="center">
@@ -100,17 +96,6 @@ Permitir que treinadores gerenciem seus alunos, acompanhem resultados, centraliz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
-
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/DiogoMoreira01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoMoreira01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMoreira01&layout=compact&langs_count=8&theme=github_dark"/>
-  </a>
-</div>
 
 ---
 
